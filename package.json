@@ -1,0 +1,23 @@
+{
+  "name": "backbone.paramrouter.js",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ullmark/backbone.paramrouter.js.git"
+  },
+  "author": "Markus Ullmark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ullmark/backbone.paramrouter.js/issues"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.4",
+    "grunt-mocha": "~0.4.1"
+  }
+}
