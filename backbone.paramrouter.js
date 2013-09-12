@@ -23,7 +23,7 @@
     } else {
       factory(_, Backbone);
     }
-  }(function(Backbone, _) {
+  }(function(_, Backbone) {
 
     // Plugin Code
     // -----------------
