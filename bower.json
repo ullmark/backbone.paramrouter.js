@@ -1,0 +1,8 @@
+
+{
+  "name": "backbone.paramrouter",
+  "version": "0.0.1",
+  "dependencies": {
+    "backbone": "~1.0.0",
+  }
+}
